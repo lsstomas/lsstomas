@@ -4,11 +4,15 @@ Olá 👋 Meu nome é Luis Felipe, muito prazer!
 Desenvolvedor de Software
 -------------------------
 
-Com 2 anos de experiência, sou especializado no desenvolvimento de soluções backend escaláveis e eficientes. Me graduei em Análise e Desenvolvimento de Sistemas e agora estou em busca da minha primeira certificação AWS, sempre visando meu crescimento profissional!
+Com 2 anos de experiência, sou especializado no desenvolvimento de soluções backend escaláveis e eficientes com Python e Django. Além disso, utilizo o React.js para criar interfaces intuitivas e amigáveis, que proporcionam uma ótima experiência de usuário. 
 
-*   🌍  Atualmente estou em Uberlândia, MG
+Me graduei em Análise e Desenvolvimento de Sistemas e agora estou em busca da minha primeira certificação AWS, sempre visando meu crescimento profissional!
+
+*   🌍  Sou natural de Uberlândia, MG.
 *   ✉️  Você pode entrar em contato comigo por e-mail: [luisftomasprado@gmail.com](mailto:luisftomasprado@gmail.com)
-*   🧠  Atualmente estou aprendendo mais sobre Docker, Kubernetes e Cloud (AWS e GCP)
+*   ⭐  Meus principais interesses na área de TI são: Cibersegurança, IA e Cloud Computing
+*   🧠  Atualmente estou aprendendo mais sobre: Docker, Kubernetes e AWS
+*   ❤️  Sou fascinado por conhecer pessoas, fazer networking e trocar conhecimento!
 
 ### Skills 
 <p align="left">
