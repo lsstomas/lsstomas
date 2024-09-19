@@ -30,7 +30,7 @@ Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**,
   <div id="backend">
     <h3>Back-end</h3>
     <!-- Python -->
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
       <img src="icons/python.svg" width="36" height="36" alt="Python">
     </a>
     <!-- Django -->
@@ -56,6 +56,10 @@ Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**,
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+      <img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" />
     </a>
     <!-- InfluxDB/InfluxData -->
     <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
