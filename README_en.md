@@ -1,4 +1,4 @@
-**[Leia isso em português](./README_pt.md)**
+**[Leia isso em português](./README.md)**
 
 # **Hello, I'm Luis Felipe!** 👋
 
