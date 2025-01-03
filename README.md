@@ -14,8 +14,7 @@ Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**,
 
 ### 🌟 O que me move
 
-- 🎯 **Interesses:** Backend, Arquitetura de Sistemas, Cloud Computing (AWS), IA
-- 📚 **Em Aprendizado:** AWS, Docker, Kubernetes, MongoDB, Arquitetura de Software
+- 🎯 **Interesses:** Arquitetura de Software, Cloud Computing (AWS), IA
 - ❤️ **Paixões:** Networking, troca de conhecimento, inovação e projetos desafiadores
 
 ### 📫 Vamos conversar?
@@ -49,7 +48,6 @@ Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**,
     <img src="icons/kubernetes.svg" width="62" height="62" alt="Kubernetes" />
     <img src="icons/terraform.svg" width="62" height="62" alt="Terraform" />
     <img src="icons/grafana.svg" width="62" height="62" alt="Grafana" />
-    <img src="icons/ubuntu.svg" width="62" height="62" alt="Ubuntu" />
     <img src="icons/debian.svg" width="62" height="62" alt="Debian" />
     <img src="icons/centos.svg" width="62" height="62" alt="CentOS" />
 </div>
