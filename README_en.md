@@ -1,4 +1,4 @@
-**[Read this in English](./README_en.md)**
+**[Leia isso em português](./README.md)**
 
 # Hello, there! 👋
 
@@ -31,9 +31,9 @@ Hello! I'm **Luis Felipe**, a full-stack developer with **2 years of experience*
 
 Currently, my focus is on **Node.js**, **TypeScript**, and **React.js**, using tools and frameworks like **NestJS** and **Next.js** to build modern and robust applications. On the backend, I work with **PostgreSQL**, **MongoDB**, and **Redis** to ensure a solid architecture and an excellent user experience.
 
-Although my expertise is in backend development, I have been increasingly delving into **Cloud Computing**: I am pursuing my first **AWS certification** to expand my skills in cloud architecture.
+Although my expertise is in software development, I have been increasingly deepening my knowledge in **DevOps** and **Cloud Computing**, exploring Docker, Kubernetes, and CI/CD, while pursuing my first **AWS certification** to expand my skills in cloud architecture.
 
-Additionally, I have a strong interest in fields like **cybersecurity** and **AI**, always striving to learn and stay updated on the latest trends and technological innovations.
+Additionally, I am fascinated by fields such as **cybersecurity** and **AI**, always seeking to learn and stay updated on the latest trends and innovations in the IT field.
 
 ## 🌍 Connect with me!
 
@@ -72,7 +72,9 @@ Additionally, I have a strong interest in fields like **cybersecurity** and **AI
 ### > DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
