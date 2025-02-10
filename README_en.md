@@ -1,64 +1,78 @@
-**[Leia isso em português](./README.md)**
+**[Read this in English](./README_en.md)**
 
-# **Hello, I'm Luis Felipe!** 👋
+# Hello, there! 👋
 
-## 🚀 Software Developer
+```typescript
+// -*- coding: utf-8 -*-
 
-With **2 years of experience** in the tech industry, I’m a fullstack developer focused on building scalable and high-performance solutions. My main area of expertise is backend development, where I use **Python** and **Django** to create well-architected and efficient systems, always with a focus on **delivering value** to the business.
+class SoftwareEngineer {
+	name: string;
+	role: string;
+	languagesSpoken: string[];
 
-In addition, I have experience in frontend development using **React.js**, creating modern and intuitive interfaces, which allows me to deliver products that combine **backend efficiency** with an **excellent user experience**.
+	constructor() {
+		this.name = "Luis Felipe";
+		this.role = "Full-stack Developer";
+		this.languagesSpoken = ["pt_BR", "en_US"];
+	}
 
-I am constantly improving my skills as a backend engineer and investing in **Cloud Computing**, particularly **AWS**, aiming to achieve my first **certification** and expand my knowledge in **cloud architectures**.
+	sayHi(): void {
+		console.log("Welcome! Here you can find some of my work. Hope you like it 😅");
+	}
+}
 
-Driven by **curiosity** and a **desire to explore new technologies**, my interests go beyond backend and cloud, including areas like **Cybersecurity** and **Artificial Intelligence**, which I closely follow to stay up to date.
+const me = new SoftwareEngineer();
+me.sayHi();
+```
 
-### 🌟 What Drives Me
+## 🤔 Who am I?
 
-- 🎯 **Interests:** Backend, System Architecture, Cloud Computing (AWS), AI
-- 📚 **Currently Learning:** AWS, Docker, Kubernetes, MongoDB, Software Architecture
-- ❤️ **Passions:** Networking, knowledge sharing, innovation, and challenging projects
+Hello! I'm **Luis Felipe**, a full-stack developer with **2 years of experience** in the tech world. I am passionate about creating efficient, scalable, and high-performance solutions, both in the backend and frontend.
 
-### 📫 Let’s Get in Touch!
+Currently, my focus is on **Node.js**, **TypeScript**, and **React.js**, using tools and frameworks like **NestJS** and **Next.js** to build modern and robust applications. On the backend, I work with **PostgreSQL**, **MongoDB**, and **Redis** to ensure a solid architecture and an excellent user experience.
 
-- 🌍 Uberlândia, MG
-- ✉️ Send me an e-mail: <luisftomasprado@gmail.com>
+Although my expertise is in backend development, I have been increasingly delving into **Cloud Computing**: I am pursuing my first **AWS certification** to expand my skills in cloud architecture.
+
+Additionally, I have a strong interest in fields like **cybersecurity** and **AI**, always striving to learn and stay updated on the latest trends and technological innovations.
+
+## 🌍 Connect with me!
+
+- ✉️ Send me an email: <luisftomasprado@gmail.com>
 - 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/lsstomas)
 
-## ⚙️ Skills
+## 🖥️ Tech Stack
 
-<div id="backend">
-    <img src="icons/python.svg" width="62" height="62" alt="Python" />
-    <img src="icons/django.svg" width="62" height="62" alt="Django" />
-    <img src="icons/flask.svg" width="62" height="62" alt="Flask" />
-    <img src="icons/node-js.svg" width="62" height="62" alt="Node.js" />
-    <img src="icons/java.svg" width="62" height="62" alt="Java" />
-    <img src="icons/mysql.svg" width="62" height="62" alt="MySQL" />
-    <img src="icons/postgresql.svg" width="62" height="62" alt="PostgreSQL" />
-    <img src="icons/mongodb.svg" width="62" height="62" alt="MongoDB" />
-    <img src="icons/influxdb.svg" width="62" height="62" alt="InfluxDB" />
-</div>
+### > Back-end Development
 
-### DevOps & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-gray.svg?style=for-the-badge&logo=typeorm&logoColor=FE0803)
+![Drizzle](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle&logoColor=c7ff52)
 
-<div id="devops_cloud">
-    <img src="icons/aws.svg" width="62" height="62" alt="AWS" />
-    <img src="icons/gcp.svg" width="62" height="62" alt="GCP" />
-    <img src="icons/docker.svg" width="62" height="62" alt="Docker" />
-    <img src="icons/kubernetes.svg" width="62" height="62" alt="Kubernetes" />
-    <img src="icons/terraform.svg" width="62" height="62" alt="Terraform" />
-    <img src="icons/grafana.svg" width="62" height="62" alt="Grafana" />
-    <img src="icons/ubuntu.svg" width="62" height="62" alt="Ubuntu" />
-    <img src="icons/debian.svg" width="62" height="62" alt="Debian" />
-    <img src="icons/centos.svg" width="62" height="62" alt="CentOS" />
-</div>
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Front-end
+### > Front-end Development
 
-<div id="frontend">
-    <img src="icons/html5.svg" width="62" height="62" alt="HTML5" />
-    <img src="icons/css3.svg" width="62" height="62" alt="CSS3" />
-    <img src="icons/javascript.svg" width="62" height="62" alt="JavaScript" />
-    <img src="icons/react.svg" width="62" height="62" alt="React" />
-    <img src="icons/tailwind.svg" width="62" height="62" alt="TailwindCSS" />
-    <img src="icons/bootstrap.svg" width="62" height="62" alt="Bootstrap" />
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### > DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

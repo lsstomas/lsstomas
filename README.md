@@ -1,6 +1,6 @@
 **[Read this in English](./README_en.md)**
 
-# **Olá, pessoa!** 👋
+# Olá, pessoa! 👋
 
 ```typescript
 // -*- coding: utf-8 -*-
@@ -40,9 +40,9 @@ Além disso, sou muito interessado em áreas como **cibersegurança** e **IA**, 
 - ✉️ Me envie um e-mail: <luisftomasprado@gmail.com>
 - 🔗 Vamos se conectar: [LinkedIn](https://www.linkedin.com/in/lsstomas)
 
-## ⚙️ Stack
+## 🖥️ Tecnologias
 
-### Desenvolvimento Back-end
+### > Desenvolvimento Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -55,7 +55,7 @@ Além disso, sou muito interessado em áreas como **cibersegurança** e **IA**, 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Desenvolvimento Front-end
+### > Desenvolvimento Front-end
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -69,7 +69,7 @@ Além disso, sou muito interessado em áreas como **cibersegurança** e **IA**, 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### DevOps
+### > DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
