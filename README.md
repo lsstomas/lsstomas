@@ -1,8 +1,31 @@
 **[Read this in English](./README_en.md)**
 
-# **Olá, eu sou o Luis Felipe!** 👋
+# **Olá, pessoa!** 👋
 
-## 🚀 Desenvolvedor de Software
+```typescript
+class SoftwareEngineer {
+	name: string;
+	role: string;
+	languagesSpoken: string[];
+
+	constructor() {
+		this.name = "Luis Felipe";
+		this.role = "Desenvolvedor Full-stack";
+		this.languagesSpoken = ["pt_BR", "en_US"];
+	}
+
+	sayHi(): void {
+		console.log(
+			"Seja bem-vindo! Aqui você encontra um pouco do meu trabalho. Espero que goste 😅"
+		);
+	}
+}
+
+const me = new SoftwareEngineer();
+me.sayHi();
+```
+
+## 😅 Sobre mim
 
 Com **2 anos de experiência** na área de tecnologia, sou um desenvolvedor fullstack focado em criar soluções escaláveis e de alta performance. Minha principal área de atuação é o backend, onde utilizo **Python** e **Django** para desenvolver sistemas bem arquitetados e eficientes, sempre com uma visão de **entrega de valor** ao negócio.
 
@@ -12,53 +35,53 @@ Estou constantemente aprimorando minhas habilidades como engenheiro backend e in
 
 Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**, com interesses que vão além do backend e cloud, como **Cibersegurança** e **Inteligência Artificial**, áreas que acompanho de perto para me manter atualizado.
 
-### 🌟 O que me move
-
-- 🎯 **Interesses:** Arquitetura de Software, Cloud Computing (AWS), IA
-- ❤️ **Paixões:** Networking, troca de conhecimento, inovação e projetos desafiadores
-
-### 📫 Vamos conversar?
+## 📫 Contatos
 
 - 🌍 Uberlândia, MG
 - ✉️ Me envie um e-mail: <luisftomasprado@gmail.com>
 - 🔗 Vamos se conectar: [LinkedIn](https://www.linkedin.com/in/lsstomas)
 
-## ⚙️ Habilidades
+## ⚙️ Stack
 
-### Back-end
+### Desenvolvimento Back-end
 
-<div id="backend">
-    <img src="icons/python.svg" width="62" height="62" alt="Python" />
-    <img src="icons/django.svg" width="62" height="62" alt="Django" />
-    <img src="icons/flask.svg" width="62" height="62" alt="Flask" />
-    <img src="icons/node-js.svg" width="62" height="62" alt="Node.js" />
-    <img src="icons/java.svg" width="62" height="62" alt="Java" />
-    <img src="icons/mysql.svg" width="62" height="62" alt="MySQL" />
-    <img src="icons/postgresql.svg" width="62" height="62" alt="PostgreSQL" />
-    <img src="icons/mongodb.svg" width="62" height="62" alt="MongoDB" />
-    <img src="icons/influxdb.svg" width="62" height="62" alt="InfluxDB" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-gray.svg?style=for-the-badge&logo=typeorm&logoColor=FE0803)
+![Drizzle](https://img.shields.io/badge/drizzle-black?style=for-the-badge&logo=drizzle&logoColor=c7ff52)
 
-### DevOps & Cloud
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div id="devops_cloud">
-    <img src="icons/aws.svg" width="62" height="62" alt="AWS" />
-    <img src="icons/gcp.svg" width="62" height="62" alt="GCP" />
-    <img src="icons/docker.svg" width="62" height="62" alt="Docker" />
-    <img src="icons/kubernetes.svg" width="62" height="62" alt="Kubernetes" />
-    <img src="icons/terraform.svg" width="62" height="62" alt="Terraform" />
-    <img src="icons/grafana.svg" width="62" height="62" alt="Grafana" />
-    <img src="icons/debian.svg" width="62" height="62" alt="Debian" />
-    <img src="icons/centos.svg" width="62" height="62" alt="CentOS" />
-</div>
+### Desenvolvimento Front-end
 
-### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<div id="frontend">
-    <img src="icons/html5.svg" width="62" height="62" alt="HTML5" />
-    <img src="icons/css3.svg" width="62" height="62" alt="CSS3" />
-    <img src="icons/javascript.svg" width="62" height="62" alt="JavaScript" />
-    <img src="icons/react.svg" width="62" height="62" alt="React" />
-    <img src="icons/tailwind.svg" width="62" height="62" alt="TailwindCSS" />
-    <img src="icons/bootstrap.svg" width="62" height="62" alt="Bootstrap" />
-</div>
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### DevOps / Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Outros
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](    https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
