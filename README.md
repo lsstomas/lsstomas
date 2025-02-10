@@ -25,19 +25,18 @@ const me = new SoftwareEngineer();
 me.sayHi();
 ```
 
-## 😅 Sobre mim
+## 🤔 Quem sou eu? 
 
-Com **2 anos de experiência** na área de tecnologia, sou um desenvolvedor fullstack focado em criar soluções escaláveis e de alta performance. Minha principal área de atuação é o backend, onde utilizo **Python** e **Django** para desenvolver sistemas bem arquitetados e eficientes, sempre com uma visão de **entrega de valor** ao negócio.
+Olá! Sou o **Luis Felipe**, um **desenvolvedor full-stack** com **2 anos de experiência** no mundo da tecnologia. Tenho uma paixão por criar soluções eficientes, escaláveis e de alta performance, tanto no **backend** quanto no **frontend**.
 
-Além disso, tenho experiência no desenvolvimento frontend utilizando **React.js**, criando interfaces modernas e intuitivas, o que me permite entregar produtos que aliam **eficiência no backend** com uma **excelente experiência de usuário**.
+Atualmente, meu foco está em **Node.js**, **TypeScript** e **React.js**, utilizando ferramentas e frameworks como **NestJS** e **Next.js** para construir aplicações modernas e robustas. No backend, trabalho com **PostgreSQL**, **MongoDB** e **Redis** para garantir uma arquitetura sólida e uma excelente experiência de usuário.
 
-Estou constantemente aprimorando minhas habilidades como engenheiro backend e investindo no **aprendizado de Cloud Computing**, especialmente **AWS**, com o objetivo de obter minha primeira **certificação** e expandir minhas capacidades em **arquiteturas de nuvem**.
+Embora minha especialidade seja o desenvolvimento backend, tenho me aprofundado cada vez mais em **Cloud Computing**: estou em busca da minha primeira **certificação AWS** para expandir minhas habilidades em arquitetura de nuvem.
 
-Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**, com interesses que vão além do backend e cloud, como **Cibersegurança** e **Inteligência Artificial**, áreas que acompanho de perto para me manter atualizado.
+Além disso, sou muito interessado em áreas como **cibersegurança** e **IA**, sempre buscando aprender e me atualizar sobre as últimas tendências e inovações tecnológicas.
 
-## 📫 Contatos
+## 🌍 Conecte-se comigo! 
 
-- 🌍 Uberlândia, MG
 - ✉️ Me envie um e-mail: <luisftomasprado@gmail.com>
 - 🔗 Vamos se conectar: [LinkedIn](https://www.linkedin.com/in/lsstomas)
 
@@ -77,6 +76,3 @@ Sou movido pela **curiosidade** e pelo **desejo de explorar novas tecnologias**,
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Outros
-
